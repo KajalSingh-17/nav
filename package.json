@@ -1,0 +1,23 @@
+{
+  "name": "ecell",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000a\u0000v\u0000\r\u0000 \u0000",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KajalSingh-17/nav.git"
+  },
+  "author": "kajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KajalSingh-17/nav/issues"
+  },
+  "homepage": "https://github.com/KajalSingh-17/nav#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "gsap": "^3.13.0"
+  }
+}
